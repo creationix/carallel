@@ -1,4 +1,5 @@
 {
   "name": "parallel",
+  "version": "0.0.0",
   "main": "parallel.js"
 }
