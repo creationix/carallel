@@ -1,5 +1,5 @@
 {
-  "name": "parallel",
+  "name": "carallel",
   "version": "0.0.0",
-  "main": "parallel.js"
+  "main": "carallel.js"
 }
